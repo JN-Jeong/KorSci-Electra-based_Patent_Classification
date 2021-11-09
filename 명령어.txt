@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0 nohup python -u train_rev-8.14.py -Level 1 -s_year 2003 -e_year 2017 -batch_size 64 -max_length 256 -kisti_label false -desc all_Batch_Size_64_Max_Len_256 > 21.10.20-1.log &
+
