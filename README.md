@@ -1,6 +1,6 @@
 # 과학기술정보 기반 사전학습(Pre-trained) 모델 개발 연구
-소개 : 과학기술정보 분야 사전학습 ELECTRA 모델 개발
-맡은 역할 : 학습 데이터(Kipris) 전처리, 실험
+- 소개 : 과학기술정보 분야 사전학습 ELECTRA 모델 개발
+- 맡은 역할 : 학습 데이터(Kipris) 전처리, 실험
 
 # Classification(kipris)
 
