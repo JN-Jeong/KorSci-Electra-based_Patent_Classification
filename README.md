@@ -1,6 +1,6 @@
 # kipris
 
-명령어 예시
+명령어 예시\n
 CUDA_VISIBLE_DEVICES=0 python train.py -Level 3 -s_year 2003 -e_year 2017 -batch_size 64 -max_length 256 -kisti_label false -desc all_Batch_Size_64_Max_Len_256
 - Level : 데이터 파일 이름 (전처리 level)
 - s_year : 데이터 파일 이름 (시작 연도)
