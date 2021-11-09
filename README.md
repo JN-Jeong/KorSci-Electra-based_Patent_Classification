@@ -76,6 +76,6 @@
 - e_year : 데이터 파일 이름 (끝 연도)
 - batch_size : 배치 사이즈
 - max_length : 최대 시퀀스 길이
-- kisti_label : kisti 데이터 label만 사용할지 유무
+- kisti_label : kisti 데이터 label만 사용할 것인지 선택 (True : kisti label만 사용)
 - desc : 저장될 파일명 (추가 설명을 작성)
 
