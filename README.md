@@ -4,7 +4,7 @@
 
 # Classification(kipris)
 
-특허 데이터
+특허 데이터 (KISTI 제공)
 - CPC + IPC(R) 
   - CPC, IPC : 특허분류체계
   - IPC(R) : 기존 IPC 코드로 분류된 특허 문건을 CPC 코드로 분류한 특허 문건
